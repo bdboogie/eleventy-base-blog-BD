@@ -1,9 +1,10 @@
 ---
-title: This is my first post.
-description: This is a post on My Blog about agile frameworks.
-date: 2018-05-01
+title: So what do you need to know...
+description: This is a post on what to expect on this site to help you taking on the role.
+date: 2021-09-29
 tags:
   - another-tag
+  - jobs
 layout: layouts/post.njk
 ---
 Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
